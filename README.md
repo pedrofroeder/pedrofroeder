@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Pedro Froeder
 
----
-
 💻 **Tecnologias que uso no dia a dia:**  
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
