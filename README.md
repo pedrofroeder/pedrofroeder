@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Pedro Froeder
 
-Sou **desenvolvedor front-end** com foco em criar interfaces modernas, performáticas e acessíveis.  
-Tenho experiência com **React** e **TypeScript**.  
-Gosto de escrever código limpo, organizado e que entregue uma boa experiência para o usuário.
-
 ---
 
 💻 **Tecnologias que uso no dia a dia:**  
