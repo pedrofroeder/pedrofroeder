@@ -25,18 +25,9 @@
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-froeder-rocha-b41291264/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Sobre mim
 
-**Desenvolvedor Front-end na Kumulus**
-
-Durante minha trajetória na Kumulus, tive a oportunidade de trabalhar em projetos desafiadores para clientes de grande porte, incluindo:
-
-- 🏛️ **Câmara Municipal de São Paulo** - Desenvolvimento de soluções digitais para o poder legislativo municipal
-- 📱 **Vivo** - Implementação de interfaces e funcionalidades para uma das maiores operadoras de telecomunicações do Brasil
-- 🏥 **Hospital Santa Joana** - Criação de sistemas voltados para a área da saúde
-
-Essa experiência me permitiu desenvolver habilidades em criar aplicações escaláveis, performáticas e com foco na experiência do usuário, trabalhando com tecnologias modernas e metodologias ágeis.
+Sou desenvolvedor front-end e trabalhei na Kumulus, onde desenvolvi projetos para clientes como Câmara Municipal de São Paulo, Vivo e Hospital Santa Joana. Essa experiência me permitiu evoluir bastante criando aplicações escaláveis e focadas na experiência do usuário.
