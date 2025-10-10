@@ -1,5 +1,4 @@
 # 👋 Olá, sou Pedro Froeder!
-
 🚀 **Desenvolvedor Front-end** | Criando experiências digitais com React e TypeScript
 
 ---
@@ -19,6 +18,7 @@
 ## 📊 Estatísticas GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofroeder&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrofroeder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
@@ -29,11 +29,14 @@
 
 ---
 
-## 💡 Sobre mim
-```typescript
-const pedro = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["React", "Tailwind CSS"],
-  tools: ["Git", "GitHub", "VS Code"],
-  architecture: ["SPA", "Component-Based"]
-};
+## 💼 Experiência Profissional
+
+**Desenvolvedor Front-end na Kumulus**
+
+Durante minha trajetória na Kumulus, tive a oportunidade de trabalhar em projetos desafiadores para clientes de grande porte, incluindo:
+
+- 🏛️ **Câmara Municipal de São Paulo** - Desenvolvimento de soluções digitais para o poder legislativo municipal
+- 📱 **Vivo** - Implementação de interfaces e funcionalidades para uma das maiores operadoras de telecomunicações do Brasil
+- 🏥 **Hospital Santa Joana** - Criação de sistemas voltados para a área da saúde
+
+Essa experiência me permitiu desenvolver habilidades em criar aplicações escaláveis, performáticas e com foco na experiência do usuário, trabalhando com tecnologias modernas e metodologias ágeis.
