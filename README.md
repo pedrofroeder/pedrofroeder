@@ -13,10 +13,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 Estatísticas GitHub
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofroeder&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
